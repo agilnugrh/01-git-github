@@ -1,4 +1,4 @@
-# MDPL-01
+# 01-git-github
 MATERI MDPL PERTEMUAN 1
 <br>Nama: Tegar Agil Nugroho
 <br>NIM: 5200411015
